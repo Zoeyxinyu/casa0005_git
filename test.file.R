@@ -1,3 +1,6 @@
 x <- 5
-y <- 4
-print(x+y)
+y <- 7
+print(y-x)
+
+z <- 8
+x-z
