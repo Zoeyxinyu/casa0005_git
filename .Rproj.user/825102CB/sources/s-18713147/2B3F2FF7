@@ -1,0 +1,27 @@
+{
+    "id": "2B3F2FF7",
+    "path": "~/Desktop/CASA0005/wk4/casa0005_git/test.file.R",
+    "project_path": "test.file.R",
+    "type": "r_source",
+    "hash": "4184753325",
+    "contents": "",
+    "dirty": false,
+    "created": 1635452071873.0,
+    "source_on_save": true,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "8,1",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1635510059,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1635510059977,
+    "read_only": false,
+    "read_only_alternatives": []
+}
